@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/snapshot-controller:latest
+FROM k8s.gcr.io/sig-storage/snapshot-controller:
